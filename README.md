@@ -7,3 +7,7 @@ Lab 3 : https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab-3
 Key frames extraction from video input, Face Detection in a class room scenario  
 Constructing a short video using key frames.
 
+Lab 4 : https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab-4
+
+
+
