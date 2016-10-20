@@ -12,8 +12,12 @@ Video Processing and Implementing SIFT on use-case related to a classroom attend
   
 Lab 5 : https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab-5  
 Implementing classification model (Decision Tree) by building on SparkMLLib and able to classify students correctly by training the model with student images and sample video using feature extraction. Reporting the F-measure, Precision , recall and Confusion Matrix.  
-  
-  
+    
+
+Lab 6: https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab-6  
+Implementation of sending data and metadata using Kafka Producer and Consumer.
+
+
 Lab 7 & 8: https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab-7-&-8  
 Implementing sending of features and metadata from client application to Kafka and from Kafka to Storm. Creating Storm topology, Spouts and Bolts creation and processing data through them. 
 
