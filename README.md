@@ -21,8 +21,8 @@ Implementation of sending data and metadata using Kafka Producer and Consumer.
 Lab 7 & 8: https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab-7-&-8  
 Implementing sending of features and metadata from client application to Kafka and from Kafka to Storm. Creating Storm topology, Spouts and Bolts creation and processing data through them.   
 
-Lab 9: https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab9  
-
+Lab 9: https://github.com/nikhitasharma/RTBigDataAnalytics_Project/wiki/Lab9   
+Audio Classification involving audio feature extractio, sending features to Storm through Kafka, Storm topology creation and processing these features for audio classification using decision tree algorithm.  
 
 
 
