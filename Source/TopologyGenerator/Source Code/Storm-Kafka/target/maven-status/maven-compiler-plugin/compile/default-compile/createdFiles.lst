@@ -1,0 +1,5 @@
+SpeechBolt.class
+DoorKnockBolt.class
+AudioBolt.class
+ContextRecognitionBolt.class
+StormKafkaMain.class
